@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+Content/MultistoryDungeons/Scenes/
+Content/MultistoryDungeons/Source_PSD/
+Content/MultistoryDungeons/SourceMeshes.rar
