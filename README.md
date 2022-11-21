@@ -1,3 +1,8 @@
 # OverwatchArena
 
-Developed with Unreal Engine 5
+Unreal Engine 5.0.3
+
+Educational project @lisaa 22/23
+TechArt / GD
+
+:)
